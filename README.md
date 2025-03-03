@@ -6,6 +6,9 @@
 
 ## All samples were scaled at -21 LUFS.
 
+Samples available [here](https://drive.google.com/drive/folders/1f9VkjzFbHj3ypmWeLvCaRxh7U8k4e7Ru?usp=sharing)
+
+<!-- 
 # LibriSpeech samples
 
 ### Audio 1
@@ -39,4 +42,4 @@
 
 | Clean | Mixture | Generator | GAN original | Time l1 1mic | Freq l2 1 mic | Time l1 3mic | Freq l2 3mic | NN 1mic | NN 3mic |
 |-------|---------|-----------|--------------|--------------|---------------|--------------|--------------|--------|---------|
-| <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_clean.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_noisy.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_generator.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_original_gan.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_time_l1_1mic.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_freq_l2_1mic.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_time_l1_3mic.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_freq_l2_3mic.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_nn_1mic.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_nn_3mic.mp3" type="audio/mpeg"> </audio>
+| <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_clean.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_noisy.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_generator.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_original_gan.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_time_l1_1mic.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_freq_l2_1mic.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_time_l1_3mic.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_freq_l2_3mic.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_nn_1mic.mp3" type="audio/mpeg"> </audio> | <audio controls> <source src="samples/MUSDB18HQ/Triviulfeat_TheFiend-Widow_nn_3mic.mp3" type="audio/mpeg"> </audio> -->
